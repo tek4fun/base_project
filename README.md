@@ -8,5 +8,5 @@ This project is a starting point for a Flutter application using Getx Pattern an
 
 A few resources to get you started if this is your first Flutter project using Getx:
 
+- [Getx Package](https://pub.dev/packages/get)
 - [Getx Snippets](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets)
-- [Getx Package](https://pub.dev/packages/get#route-management)
